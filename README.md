@@ -1,2 +1,2 @@
-# projeto-bikcraft
- Projeto da empresa fictícia Bikcraft
+bikcraft
+Fictitious company project developed with HTML, CSS and JS.
